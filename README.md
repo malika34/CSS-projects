@@ -54,7 +54,7 @@ _Learning by building real-world responsive websites_
 
 ## 🚀 How to Run
 
-You can open `index.html` inside any project folder directly in your browser.  
-For live preview, deploy via GitHub Pages or Netlify.
+[For amazon clone URL link](https://malik-amazon.vercel.app/)
+[For uber clone URL link](https://malik-uber-clone.vercel.app/)
 
 ---
