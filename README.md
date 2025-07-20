@@ -52,9 +52,13 @@ _Learning by building real-world responsive websites_
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run the Projects
 
-[For amazon clone URL link](https://malik-amazon.vercel.app/)
-[For uber clone URL link](https://malik-uber-clone.vercel.app/)
+### 🛒 Amazon Clone  
+🔗 [Click here to view the Amazon Clone](https://malik-amazon.vercel.app/)
+
+### 🚖 Uber Clone  
+🔗 [Click here to view the Uber Clone](https://malik-uber-clone.vercel.app/)
 
 ---
+
